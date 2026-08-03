@@ -4,7 +4,7 @@ Bare-metal C++/Rust execution wrapper for integrating Space Nova's **ADEL 2.0** 
 
 ## Quick Links
 * **Live Interactive Monitor & Benchmarks:** https://space-nova-monitor-2026.streamlit.app/
-* **Executive Technical Briefing:** [ADEL Executive Technical White Paper 2.0](https://space-nova-monitor-2026.streamlit.app/)[cite: 1]
+
 
 ## Build Instructions (ROS 2 Humble / Iron / Rolling)
 

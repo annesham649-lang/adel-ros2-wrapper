@@ -11,7 +11,7 @@ Bare-metal C++/Rust execution wrapper for integrating Space Nova's **ADEL 2.0** 
 ```bash
 # Clone into your ROS 2 workspace src directory
 cd ~/ros2_ws/src
-git clone [https://github.com/YOUR_GITHUB_USERNAME/adel-ros2-wrapper.git](https://github.com/YOUR_GITHUB_USERNAME/adel-ros2-wrapper.git)
+git clone [https://github.com/annesham649-lang/adel-ros2-wrapper.git](https://github.com/annesham649-lang/adel-ros2-wrapper.git)
 
 # Build package
 cd ~/ros2_ws
